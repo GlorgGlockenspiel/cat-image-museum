@@ -1,0 +1,12 @@
+html {
+    height:100%
+}
+* {
+    color:white;
+    text-align: center;
+}
+body{
+        background-image:linear-gradient(navy, purple);
+        background-size:cover;
+        background-attachment:fixed;
+}
